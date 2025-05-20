@@ -6,6 +6,14 @@
   📍 Hyderabad, India
 </p>
 
+## 👨‍💻 About Me
+
+I'm **Ravichettu Lokesh Chandra**, a final-year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at Anurag University. I’m passionate about solving real-world problems through code—whether it’s through full-stack web apps or applied ML.
+
+I’ve built and deployed multiple full-stack projects using the **MERN stack**, including **ClubHubb**, a student club platform with 1000+ users, and **Agrihar**, a freelancing project that went live with Zoom and payment integrations. My interests also extend into **machine learning**, where I’ve worked on fall detection, PDF malware classification, and digit recognition.
+
+I enjoy working on impactful products, collaborating with like-minded teams, and continuously leveling up my skills through hands-on projects and hackathons.
+
 ---
 
 ## 🚀 Skills
